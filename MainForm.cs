@@ -75,7 +75,7 @@ namespace CollectorTailor
             this.checkedListBox_features.FormattingEnabled = true;
             this.checkedListBox_features.Location = new System.Drawing.Point(12, 12);
             this.checkedListBox_features.Name = "checkedListBox_features";
-            this.checkedListBox_features.Size = new System.Drawing.Size(358, 1156);
+            this.checkedListBox_features.Size = new System.Drawing.Size(433, 1156);
             this.checkedListBox_features.TabIndex = 0;
             this.checkedListBox_features.MouseUp += new System.Windows.Forms.MouseEventHandler(this.checkedListBox_features_MouseUp);
             // 
@@ -84,9 +84,9 @@ namespace CollectorTailor
             this.listView1.CheckBoxes = true;
             this.listView1.GridLines = true;
             this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(376, 85);
+            this.listView1.Location = new System.Drawing.Point(452, 85);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(1661, 1083);
+            this.listView1.Size = new System.Drawing.Size(1585, 1083);
             this.listView1.TabIndex = 1;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.ItemCheck += new System.Windows.Forms.ItemCheckEventHandler(this.listView1_ItemCheck);
@@ -94,7 +94,7 @@ namespace CollectorTailor
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(553, 12);
+            this.button1.Location = new System.Drawing.Point(628, 12);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(171, 67);
             this.button1.TabIndex = 2;
@@ -104,7 +104,7 @@ namespace CollectorTailor
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(376, 12);
+            this.button2.Location = new System.Drawing.Point(451, 12);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(171, 67);
             this.button2.TabIndex = 3;
