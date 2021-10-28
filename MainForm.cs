@@ -35,9 +35,6 @@ namespace CollectorTailor
        
         }
 
-    
-        
-
         private void listView1_ItemCheck(object sender, ItemCheckEventArgs e)
         {
             this.listView1.BeginUpdate();
